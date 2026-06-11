@@ -22,7 +22,7 @@ This repository contains various projects, resources, and code related to:
 ## Let's Connect
 
 - 🌐 [GitHub Profile](https://github.com/RLSSOURCE)
-- 🚀 [Scrambl.io App](https://scramblioapp.com/)
+- 🚀 [Scrambl.io App](https://scramblioapp.com)
 
 ## Skills & Expertise
 

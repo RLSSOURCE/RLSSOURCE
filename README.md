@@ -41,6 +41,12 @@ Old account. New chapter. Let's go.
 
 ---
 
+## 📄 Resume
+
+- 📋 [View My Resume](./Ruben_Santana_Excel_Resume_Final_Git_Basics.pdf)
+
+---
+
 ## 📍 Apopka, FL
 
 ---

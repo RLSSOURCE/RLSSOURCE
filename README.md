@@ -1,54 +1,38 @@
-# Hey, I'm Ruben 👋 — R.L. Santana
+# Welcome to RLSSOURCE
 
-> *Reviving a 2009 account with a 2026 mindset.*
+Hi! I'm Ruben Santana, and this is my GitHub repository for various projects and resources.
 
----
+## About Me
 
-## 🔄 The Comeback
+I'm passionate about **Excel**, **data entry**, and **spreadsheet solutions**. I specialize in:
 
-I created this GitHub account back in **2009** and let it collect dust for years.  
-Now I'm back — building skills, learning in public, and taking it seriously.
+- 📊 **Excel Expertise**: PivotTables, dashboards, and data analysis
+- 📋 **Data Entry & Management**: Accurate and efficient data handling
+- 🔧 **Spreadsheet Automation**: Building tools to streamline workflows
+- 💻 **Remote Solutions**: Providing support and services from anywhere
 
-Old account. New chapter. Let's go.
+## What You'll Find Here
 
----
+This repository contains various projects, resources, and code related to:
+- Spreadsheet utilities and templates
+- Data processing scripts
+- Dashboard and reporting solutions
+- Documentation and guides
 
-## 🧠 Currently Learning
+## Let's Connect
 
-| Skill | Status |
-|---|---|
-| 🐍 Python | Actively learning — scripts, automation, basics |
-| 📊 Excel & Data Entry | Building real-world data skills |
-| 🤖 AI Ecosystem | Exploring tools, workflows & what's possible |
-| 🐙 Git & GitHub | Getting comfortable (starting right here) |
+- 🌐 [GitHub Profile](https://github.com/RLSSOURCE)
+- 🚀 [Scrambl.io App](https://scramblioapp.com/)
 
----
+## Skills & Expertise
 
-## 🛠️ What I'm Working On
-
-- Getting comfortable with Python fundamentals
-- Building Excel skills for data work
-- Exploring how AI tools fit into everyday workflows
-- Documenting my learning journey through commits & projects
-
----
-
-## 🔗 Find Me
-
-- 🌐 [scramblioapp.com](https://scramblioapp.com)
-- 🛍️ [Etsy — ColorsBySima](https://www.etsy.com/shop/ColorsBySima)
-- 🐦 [@StudioProz](https://x.com/sima_proz) on X
+- Advanced Excel (Formulas, PivotTables, VBA)
+- Data Analysis & Visualization
+- Spreadsheet Design & Optimization
+- Remote Work & Support
 
 ---
 
-## 📄 Resume
+Feel free to explore, use, and contribute to any projects here. If you have questions or need assistance with spreadsheet solutions, don't hesitate to reach out!
 
-- 📋 [View My Resume](./Ruben_Santana_Excel_Resume_Final_Git_Basics.pdf)
-
----
-
-## 📍 Apopka, FL
-
----
-
-*"The best time to start was 2009. The second best time is now."* 🚀
+**Happy coding!** 📊
